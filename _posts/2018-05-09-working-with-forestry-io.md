@@ -19,4 +19,8 @@ First, before we go into any of the details of how to use Jekyll as a CMS, let's
 
 Netlify offers a hosting platform for static sites, that's incredibly simple to get started with, yet has an abundance of features to provide its clients with a broad range of opportunities to built amazing things!
 
-As a simple example, it's easy to include custom forms on your site, using Netlify's [forms](https://www.netlify.com/docs/form-handling). And
+As a simple example, it's easy to include custom forms on your site, using Netlify's [forms](https://www.netlify.com/docs/form-handling). And this is achieved with the inclusion of the `netlify` form attribute:
+
+    <form name="contact" method="POST" netlify>
+    ...
+    </form>
