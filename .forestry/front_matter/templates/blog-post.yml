@@ -1,4 +1,10 @@
 ---
 hide_body: false
 is_partial: true
-fields: []
+fields:
+- type: text
+  label: Layout
+  name: layout
+  config:
+    required: true
+  description: page/post
