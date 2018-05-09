@@ -7,6 +7,6 @@ categories:
 - jekyll
 - netlify
 ---
-Jekyll is an awesome static site generator framework with **one** hurdle...
+Jekyll is an awesome static site generator framework with **one** hurdle...It's not a CMS! But here's the best bit - it can good fake! And fake it well!
 
-> It's not a cms!
+> It's not a CMS!
