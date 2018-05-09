@@ -12,3 +12,5 @@ Jekyll is an awesome static site generator framework with **one** hurdle...It's 
 But here's the best bit - it can fake it! And fake it well!
 
 > It's not a CMS!
+
+First, before we go into any of the details of how to use Jekyll as a CMS, let's acknowledge an equally awesome hosting environment provided by Netlify.
