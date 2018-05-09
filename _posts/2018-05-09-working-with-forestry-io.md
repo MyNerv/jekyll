@@ -26,3 +26,5 @@ As a simple example, it's easy to include custom forms on your site, using Netli
     </form>
 
 _How awesome is that?!_
+
+But this is just the tip of the iceberg for form handling. There are options to override the default success message with a redirect to `/pages/custom-success-page.html`, custom error handling, javascript, and so on.
