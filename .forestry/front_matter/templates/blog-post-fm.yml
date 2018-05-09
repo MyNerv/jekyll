@@ -8,3 +8,13 @@ fields:
   config:
     required: true
   description: page/post
+- type: text
+  label: Title
+  name: title
+  description: The post title
+  config:
+    required: true
+- type: tag_list
+  name: categories
+  label: Categories
+  description: The post's categories
