@@ -1,4 +1,6 @@
 ---
+pages:
+- _posts/working-with-forestry-io.md
 hide_body: false
 is_partial: true
 fields:
