@@ -55,6 +55,8 @@ It's simply, clean and beautiful!
 
 Now slap me in the face if you think I'm wrong, but this is an elegant interface for editing posts and pages. And adding media is just as nice:
 
-![Adding media in Forestry.io](/uploads/2018/05/17/Forestry editor media or url.jpg "Adding media in Forestry.io" =250x)
+<img src="/uploads/2018/05/17/Forestry%20editor%20media%20or%20url.jpg" width="250px" alt="Adding media in Forestry.io"/>
+
+![Adding media in Forestry.io](/uploads/2018/05/17/Forestry%20editor%20media%20or%20url.jpg "Adding media in Forestry.io")
 
 However, I have noticed some caveats, too. The most noticeable is the lack of text aligning, which I have not found a way to do with switching to 'Raw Editor' mode, adding a css class, and applying the styling via css styling.
