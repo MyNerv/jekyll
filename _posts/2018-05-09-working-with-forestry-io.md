@@ -44,3 +44,9 @@ Forms and Webhooks are only two of the amazing features of Netlify, be sure to [
 Forestry turns your static site into an editor-friendly CMS, that bridges the gap between developers and editors. It's best described in [their documentation](https://forestry.io/docs/): _"To put it simply, Forestry is an editor-friendly interface over Git. This means that developers and editors can now use the same workflow and tool set."_
 
 I love it! It solves the problem that has held me back from using Jekyll and Hugo over Wordpress. But, with Forestry.io, I can now see many opportunities where the lightweight and speed of static sites are a no-brainer!
+
+### The Editor
+
+It's simply, clean and beautiful! 
+
+![Forestry.io editor](/uploads/2018/05/17/Forestry.io editor-min.jpg "The Beautiful Forestry.io Editor")
