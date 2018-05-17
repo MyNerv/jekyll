@@ -6,6 +6,8 @@ categories:
 - forestry.io
 - jekyll
 - netlify
+image: "/uploads/2018/05/17/Forestry editor media or url.jpg"
+feature-image: ''
 ---
 Jekyll is an awesome static site generator framework with **one** hurdle...It's not a CMS!
 
@@ -50,3 +52,7 @@ I love it! It solves the problem that has held me back from using Jekyll and Hug
 It's simply, clean and beautiful!
 
 ![The Beautiful Forestry.io Editor](/uploads/2018/05/17/Forestry.io editor-min-1.jpg "The Beautiful Forestry.io Editor")
+
+No slap me in the face if you think I'm wrong, but this is an elegant interface for editing posts and pages, and adding media is just as nice:
+
+![Adding media in Forestry.io](/uploads/2018/05/17/Forestry editor media or url.jpg "Adding media in Forestry.io" =250x)
