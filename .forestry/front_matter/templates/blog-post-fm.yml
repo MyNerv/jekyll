@@ -20,3 +20,9 @@ fields:
   name: categories
   label: Categories
   description: The post's categories
+- type: file
+  config:
+    maxSize: '2'
+  label: Image
+  name: image
+  description: an image
