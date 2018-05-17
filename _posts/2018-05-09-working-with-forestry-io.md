@@ -53,6 +53,8 @@ It's simply, clean and beautiful!
 
 ![The Beautiful Forestry.io Editor](/uploads/2018/05/17/Forestry.io editor-min-1.jpg "The Beautiful Forestry.io Editor")
 
-No slap me in the face if you think I'm wrong, but this is an elegant interface for editing posts and pages, and adding media is just as nice:
+Now slap me in the face if you think I'm wrong, but this is an elegant interface for editing posts and pages. And adding media is just as nice:
 
 ![Adding media in Forestry.io](/uploads/2018/05/17/Forestry editor media or url.jpg "Adding media in Forestry.io" =250x)
+
+However, I have noticed some caveats, too. The most noticeable is the lack of text aligning, which I have not found a way to do with switching to 'Raw Editor' mode, adding a css class, and applying the styling via css styling.
