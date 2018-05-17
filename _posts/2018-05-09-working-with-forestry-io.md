@@ -35,4 +35,12 @@ If you're interesting in using forms in your flow, be sure to check out how [Net
 
 ### Netlify & Webhooks
 
-Netlify supports both incoming and outgoing webhooks. Incoming are great for updating the site and outgoing are great for sending events to services, such as updating git status, or sending Slack message.
+Netlify supports both incoming and outgoing webhooks. Incoming are great for updating the site and outgoing are great for sending events to services, such as updating git commit status, or sending Slack message. Be sure to check out [Netlify's webhooks documentation](https://www.netlify.com/docs/webhooks/).
+
+Forms and Webhooks are only two of the amazing features of Netlify, be sure to [check their documentation](https://www.netlify.com/docs/) for all the other wonderful stuff.
+
+# Forestry.io
+
+Forestry turns your static site into an editor-friendly CMS, that bridges the gap between developers and editors. It's best described in [their documentation](https://forestry.io/docs/): _"To put it simply, Forestry is an editor-friendly interface over Git. This means that developers and editors can now use the same workflow and tool set."_
+
+I love it! It solves the problem that has held me back from using Jekyll and Hugo over Wordpress. But, with Forestry.io, I can now see many opportunities where the lightweight and speed of static sites are a no-brainer!
