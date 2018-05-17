@@ -23,6 +23,6 @@ fields:
 - type: file
   config:
     maxSize: '2'
-  label: Image
-  name: image
-  description: an image
+  label: Feature Image
+  name: feature-image
+  description: A feature image
