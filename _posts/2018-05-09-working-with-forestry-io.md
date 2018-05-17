@@ -47,6 +47,6 @@ I love it! It solves the problem that has held me back from using Jekyll and Hug
 
 ### The Editor
 
-It's simply, clean and beautiful! 
+It's simply, clean and beautiful!
 
-![Forestry.io editor](/uploads/2018/05/17/Forestry.io editor-min.jpg "The Beautiful Forestry.io Editor")
+![The Beautiful Forestry.io Editor](/uploads/2018/05/17/Forestry.io editor-min-1.jpg "The Beautiful Forestry.io Editor")
