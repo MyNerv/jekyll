@@ -28,3 +28,5 @@ As a simple example, it's easy to include custom forms on your site, using Netli
 _How awesome is that?!_
 
 But this is just the tip of the iceberg for form handling. There are options to override the default success message with a redirect to `/pages/custom-success-page.html`, custom error handling, javascript, and so on. And there's an allocation of free form submissions to make it even more sexy!
+
+If you're interesting in using forms in your flow, be sure to check out how [Netlify integrates with Zapier](https://www.netlify.com/docs/form-handling/#receiving-submissions), for a vast array of awesome interaction with third-party applications :).
